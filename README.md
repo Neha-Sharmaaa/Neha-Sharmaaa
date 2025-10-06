@@ -1,4 +1,4 @@
-## hello
+#💻 BTech CSE (AI & ML) student | Tech enthusiast | Exploring DSA, AI & Python
 
 <!--
 **Neha-Sharmaaa/Neha-Sharmaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
