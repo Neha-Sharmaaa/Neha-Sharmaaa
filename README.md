@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 👩‍💻 BTech CSE (AI & ML) student  <br>📌 Interested in problem-solving, backend development, and ML  <br><br>I like turning ideas into working applications and improving my logic through DSA and hands-on projects.<br><br>Tech I work with:<br>- Python, JavaScript<br>- Node.js, Express<br>- MySQL, MongoDB<br><br>Learning one bug at a time 🐛<br>
 
 
