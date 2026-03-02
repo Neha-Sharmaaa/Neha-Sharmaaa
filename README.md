@@ -12,7 +12,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Neha-Sharmaaa&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Sharmaaa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neha-Sharmaaa&layout=compact&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Neha-Sharmaaa&icon=0&color=0)](https://visitcount.itsvg.in)
